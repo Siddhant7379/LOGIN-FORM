@@ -2,22 +2,23 @@ body
 {
     margin: 0;
     padding: 0;
-    background-color:#6abadeba;
+    background: url('https://img.freepik.com/free-vector/gradient-technological-background_23-2148884155.jpg')no-repeat center center/cover;
     font-family: 'Arial';
 }
+
 .login{
         width: 382px;
         overflow: hidden;
         margin: auto;
         margin: 20 0 0 450px;
         padding: 80px;
-        background: #23463f;
+        background: #342346;
         border-radius: 15px ;
 
 }
 h2{
     text-align: center;
-    color: #277582;
+    color: #ec8b0c;
     padding: 20px;
 }
 label{
